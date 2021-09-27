@@ -1,0 +1,15 @@
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\LOGIC.deps.json
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\LOGIC.dll
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\ref\LOGIC.dll
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\LOGIC.pdb
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.csproj.AssemblyReference.cache
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfoInputs.cache
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfo.cs
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.dll
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\ref\LOGIC.dll
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.pdb
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\DAL.dll
+C:\Users\monsi\source\repos\LOGIC\bin\Debug\net5.0\DAL.pdb
+C:\Users\monsi\source\repos\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CopyComplete
