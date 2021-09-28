@@ -7,6 +7,7 @@ namespace _3tier.Models.Movie
 {
     public class Movie_Pass_Object
     {
+        public int id { get; set; }
         public string title { get; set; }
         public int year { get; set; }
     }
