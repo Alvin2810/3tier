@@ -10,8 +10,15 @@ namespace LOGIC.Services.Interfaces
 {
     public interface IMovie_Service
     {
-        Task<Generic_ResultSet<Movie_ResultSet>> AddSingleMovie(string title, int year);
+        /* fetch methods */
         Task<Generic_ResultSet<List<Movie_ResultSet>>> GetAllMovies();
+        Task<Generic_ResultSet<Movie_ResultSet>> GetMovieById(Int64 id);
+
+
+        /* Create/Edit/Delete methods */
+        Task<Generic_ResultSet<Movie_ResultSet>> AddMovie(string title, int year);
         Task<Generic_ResultSet<Movie_ResultSet>> UpdateMovie(Int64 id, string title, int year);
+        Task<Generic_ResultSet<bool>> DeleteMovie(Int64 id);
+
     }
 }
